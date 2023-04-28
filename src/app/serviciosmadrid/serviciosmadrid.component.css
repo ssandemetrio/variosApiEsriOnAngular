@@ -1,0 +1,12 @@
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 97%;
+  width: 100%;
+}
+#srDiv{
+  height: 40px;
+  padding: 10px;
+}
